@@ -26,11 +26,11 @@
     display abovedatausing string.format() method.
 18. How to check file is empty or not.
 19. Read line number 4 from the given file.
-20. Print the following pattern1
-    1 2
-    1 2 3
-    1 2 3 4
-    1 2 3 4 5
+20. Print the following pattern<br> 1<br>
+    1 2 <br>
+    1 2 3 <br>
+    1 2 3 4 <br>
+    1 2 3 4 5 <br>
 21. Given a list iterate it and display numbers which are divisible by 5 and if you find 
     number greater than 150 stop the loop iteration.
     list1 = [12, 15, 32, 42, 55, 75, 122, 132, 150, 180, 200].
